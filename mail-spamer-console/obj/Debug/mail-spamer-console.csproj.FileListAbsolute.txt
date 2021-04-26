@@ -1,0 +1,7 @@
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\bin\Debug\mail-spamer-console.exe.config
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\bin\Debug\mail-spamer-console.exe
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\bin\Debug\mail-spamer-console.pdb
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\obj\Debug\mail-spamer-console.csprojAssemblyReference.cache
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\obj\Debug\mail-spamer-console.csproj.CoreCompileInputs.cache
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\obj\Debug\mail-spamer-console.exe
+D:\Programmmming\mail-spamer-console\mail-spamer-console\mail-spamer-console\obj\Debug\mail-spamer-console.pdb
